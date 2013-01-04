@@ -1,0 +1,8 @@
+MIDlet-1: MobileOTP, MobileOTP.png, MobileOTP.MobileOTP
+MIDlet-Jar-Size: 13240
+MIDlet-Jar-URL: MobileOTP.jar
+MIDlet-Name: MobileOTP
+MIDlet-Vendor: M. Straub
+MIDlet-Version: 1.07
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
