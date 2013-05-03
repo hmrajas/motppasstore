@@ -3,7 +3,7 @@
 error_reporting(0);
 
 
-$userdata="/var/chroot/home/content/h/u/s/huse1308/html/projects/passtore/data-secure/"; //Data folder for user db - to be located OUTSIDE OF PUBLIC_HTML folder
+$userdata="/html/projects/passtore/data-secure/"; //Data folder for user db - to be located OUTSIDE OF PUBLIC_HTML folder
 
 $servicename="MOTP Passtore ";
 $serviceinfo=$servicename." gives you the tools to organize your passwords all in one place. Easy to access and even more secure. Your passwords will be kept on the server encrypted by passcode known by you only. Your Passtore account can only be accessed using onetime passwords (OTP) which completely mitigates the threat of keylogger and similar type trojans, as well as the man-in-the-middle attacks";
